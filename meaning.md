@@ -1,0 +1,1 @@
+The smallest positive integer is 1.
