@@ -1,1 +1,1 @@
-The smallest positive integer is 1.
+There is no largest negative integer as the negative integers extend infinitely in the negative direction. For every negative integer you can think of, there will always be a smaller one.
